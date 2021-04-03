@@ -6,7 +6,7 @@
 
 ### As a working mom of one, I am transitioning from an education background into Software Engineering. 
 
-My developer journey started from making various snowmen with different shapes of eyes/head for my son for fun to a full blown passion. :yellow_heart:
+My developer journey started from making snowmen with different shapes of eyes/head for my son for fun to a full blown passion. :yellow_heart:
 
 I am self-taught developer who has who has been mentored by a mid-level software developer. 👩‍🏫
 
