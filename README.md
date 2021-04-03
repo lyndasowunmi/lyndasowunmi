@@ -10,6 +10,6 @@ My developer journey started from making snowmen with different shapes of eyes/h
 
 I am self-taught developer who has been mentored by a mid-level software developer. 👩‍🏫
 
-While currently molding young lives as a middle school Mathematics teacher, I am very excited to land my first developer job and continue to learn in the wonderful world of tech. 💻
+While currently moulding young lives as a middle school Mathematics teacher, I am very excited to land my first developer job and continue to learn in the wonderful world of tech. 💻
 
 Thanks for reading! 📖
